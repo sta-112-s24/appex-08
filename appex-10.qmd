@@ -1,0 +1,16 @@
+---
+title: "Appex 10"
+format: html
+editor: visual
+---
+
+```{r}
+#| label: load
+#| message: false
+#| warning: false
+
+library(tidyverse)
+library(Stat2Data)
+data(USstamps)
+
+```
